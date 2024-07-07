@@ -6,7 +6,9 @@ Backend Technologies/Frameworks used : Appwrite (Backend as a Service)
 
 ### Project Description:
 
-The Blog Application project is a comprehensive web-based platform designed and developed using ReactJS, Tailwind CSS, Redux Toolkit, and Appwrite. This application provides users with a seamless experience for managing their blog content. Key features of the application include:
+The Blog Application project is a comprehensive web-based platform designed and developed using ReactJS, Tailwind CSS, Redux Toolkit, and Appwrite. This application provides users with a seamless experience for managing their blog content. 
+
+Key features of the application include:
 
 - User Authentication: Users can sign up, log in, and log out securely, ensuring data privacy and personalized access.
 - Blog Management: Authenticated users have the ability to create, read, edit, and delete blog posts, allowing for complete control over their content.
