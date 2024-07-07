@@ -1,8 +1,8 @@
 # Blog-Application
 A User-friendly and interactive Blog Application made using Reactjs,Tailwind CSS, react redux toolkit and Appwrite (Backend as a Service).
 
-Frontend Technologies/Frameworks used : ReactJS with Tailwind CSS
-Backend Technologies/Frameworks used : Appwrite (Backend as a Service) 
+-Frontend Technologies/Frameworks used : ReactJS with Tailwind CSS
+-Backend Technologies/Frameworks used : Appwrite (Backend as a Service) 
 
 ### Project Description:
 
